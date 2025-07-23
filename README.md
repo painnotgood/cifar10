@@ -5,7 +5,7 @@ In recent years, image classification has been a prevalent direction of research
 
 ## Goals:
 - Aim for 94+% accuracy (the error rate of a human on CIFAR-10 was estimated to be 6% => 94+% accuracy = human-level performance)
-- Train a model, not using pretrained models, under 3 hours using Google Colab's L4 High-RAM GPU
+- Train a model, not using pretrained weights, under 3 hours using Google Colab's L4 High-RAM GPU
 
 # 2. Execution
 
